@@ -1,0 +1,305 @@
+* fep_type: small_molecule
+* Number of nodes: 44
+* Number of edges: 72
+* fmpdb filename: N/A
+* Receptor
+	protein cofactors_crystalwater - 5-minimized: 4457 atoms
+* Environment structures
+	protein cofactors_crystalwater - 5-minimized: 4457 atoms
+* Edge calculated properties (units in kcal/mol)
+   Short ID         ligand1 -> ligand2                Bennett ddG    Cycle Closure ddG    Complex dG    Solvent dG
+   ---------------  --------------------------------  -------------  -------------------  ------------  ------------
+   1e0ef00_71d0e6f  CHEMBL3265013 -> CHEMBL3265037    N/A            N/A                  N/A           N/A
+   71d0e6f_a500639  CHEMBL3265037 -> CHEMBL3265020    N/A            N/A                  N/A           N/A
+   71d0e6f_a3705ce  CHEMBL3265037 -> CHEMBL3265033    N/A            N/A                  N/A           N/A
+   161113a_cd2d776  CHEMBL3265021 -> CHEMBL3259820    N/A            N/A                  N/A           N/A
+   5f80774_cd2d776  CHEMBL3265012 -> CHEMBL3259820    N/A            N/A                  N/A           N/A
+   0cd00d5_cd2d776  CHEMBL3265015 -> CHEMBL3259820    N/A            N/A                  N/A           N/A
+   161113a_9352ea3  CHEMBL3265021 -> CHEMBL3265024    N/A            N/A                  N/A           N/A
+   161113a_5295938  CHEMBL3265021 -> CHEMBL3265023    N/A            N/A                  N/A           N/A
+   161113a_18bf4d8  CHEMBL3265021 -> CHEMBL3265035    N/A            N/A                  N/A           N/A
+   72c2cd4_c804203  CHEMBL3265016 -> CHEMBL3265010    N/A            N/A                  N/A           N/A
+   72c2cd4_a500639  CHEMBL3265016 -> CHEMBL3265020    N/A            N/A                  N/A           N/A
+   72c2cd4_daf354b  CHEMBL3265016 -> CHEMBL3265030_n  N/A            N/A                  N/A           N/A
+   384fdc8_76bf269  CHEMBL3265017 -> CHEMBL3265028    N/A            N/A                  N/A           N/A
+   59b1e4b_76bf269  CHEMBL3265029 -> CHEMBL3265028    N/A            N/A                  N/A           N/A
+   5f80774_84482d0  CHEMBL3265012 -> CHEMBL3265027    N/A            N/A                  N/A           N/A
+   56d0bad_f268661  CHEMBL3265004 -> CHEMBL3265003    N/A            N/A                  N/A           N/A
+   56d0bad_f7adc8e  CHEMBL3265004 -> CHEMBL3264999    N/A            N/A                  N/A           N/A
+   56d0bad_be092cb  CHEMBL3265004 -> CHEMBL3265002    N/A            N/A                  N/A           N/A
+   f7bb716_fe2f25d  CHEMBL3265005 -> CHEMBL3265011    N/A            N/A                  N/A           N/A
+   a500639_f7bb716  CHEMBL3265020 -> CHEMBL3265005    N/A            N/A                  N/A           N/A
+   9352ea3_a500639  CHEMBL3265024 -> CHEMBL3265020    N/A            N/A                  N/A           N/A
+   357d2c4_c804203  CHEMBL3265009 -> CHEMBL3265010    N/A            N/A                  N/A           N/A
+   34ff3fd_f268661  CHEMBL3265014 -> CHEMBL3265003    N/A            N/A                  N/A           N/A
+   34ff3fd_7b29e79  CHEMBL3265014 -> CHEMBL3265019    N/A            N/A                  N/A           N/A
+   1e0ef00_34ff3fd  CHEMBL3265013 -> CHEMBL3265014    N/A            N/A                  N/A           N/A
+   0cd00d5_34ff3fd  CHEMBL3265015 -> CHEMBL3265014    N/A            N/A                  N/A           N/A
+   34ff3fd_dd52b02  CHEMBL3265014 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   34ff3fd_384fdc8  CHEMBL3265014 -> CHEMBL3265017    N/A            N/A                  N/A           N/A
+   34ff3fd_dac4e5a  CHEMBL3265014 -> CHEMBL3265026    N/A            N/A                  N/A           N/A
+   5295938_7871a46  CHEMBL3265023 -> CHEMBL3265018    N/A            N/A                  N/A           N/A
+   1e0ef00_5295938  CHEMBL3265013 -> CHEMBL3265023    N/A            N/A                  N/A           N/A
+   1894d2d_74dff08  CHEMBL3264998 -> CHEMBL3264997    N/A            N/A                  N/A           N/A
+   74dff08_d5921af  CHEMBL3264997 -> CHEMBL3265001    N/A            N/A                  N/A           N/A
+   1894d2d_978b75e  CHEMBL3264998 -> CHEMBL3264995    N/A            N/A                  N/A           N/A
+   1894d2d_3df1621  CHEMBL3264998 -> CHEMBL3265000    N/A            N/A                  N/A           N/A
+   5b53f67_84482d0  CHEMBL3265025 -> CHEMBL3265027    N/A            N/A                  N/A           N/A
+   384fdc8_84482d0  CHEMBL3265017 -> CHEMBL3265027    N/A            N/A                  N/A           N/A
+   357d2c4_84482d0  CHEMBL3265009 -> CHEMBL3265027    N/A            N/A                  N/A           N/A
+   d2c5ae3_fadb8a6  CHEMBL3265006 -> CHEMBL3264996    N/A            N/A                  N/A           N/A
+   357d2c4_d2c5ae3  CHEMBL3265009 -> CHEMBL3265006    N/A            N/A                  N/A           N/A
+   d2c5ae3_dac4e5a  CHEMBL3265006 -> CHEMBL3265026    N/A            N/A                  N/A           N/A
+   d2c5ae3_fe2f25d  CHEMBL3265006 -> CHEMBL3265011    N/A            N/A                  N/A           N/A
+   d5921af_f268661  CHEMBL3265001 -> CHEMBL3265003    N/A            N/A                  N/A           N/A
+   7871a46_aa8f359  CHEMBL3265018 -> CHEMBL3265008    N/A            N/A                  N/A           N/A
+   2de79b1_7871a46  CHEMBL3265034 -> CHEMBL3265018    N/A            N/A                  N/A           N/A
+   7871a46_a500639  CHEMBL3265018 -> CHEMBL3265020    N/A            N/A                  N/A           N/A
+   7871a46_a3705ce  CHEMBL3265018 -> CHEMBL3265033    N/A            N/A                  N/A           N/A
+   5b53f67_a500639  CHEMBL3265025 -> CHEMBL3265020    N/A            N/A                  N/A           N/A
+   a500639_aa8f359  CHEMBL3265020 -> CHEMBL3265008    N/A            N/A                  N/A           N/A
+   7b29e79_dd52b02  CHEMBL3265019 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   384fdc8_7b29e79  CHEMBL3265017 -> CHEMBL3265019    N/A            N/A                  N/A           N/A
+   0cd00d5_fadb8a6  CHEMBL3265015 -> CHEMBL3264996    N/A            N/A                  N/A           N/A
+   357d2c4_dd52b02  CHEMBL3265009 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   59b1e4b_dd52b02  CHEMBL3265029 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   18bf4d8_dd52b02  CHEMBL3265035 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   72eb1aa_dd52b02  CHEMBL3265032 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   29c36fb_dd52b02  CHEMBL3265036 -> CHEMBL3265022    N/A            N/A                  N/A           N/A
+   978b75e_d5921af  CHEMBL3264995 -> CHEMBL3265001    N/A            N/A                  N/A           N/A
+   978b75e_d18e974  CHEMBL3264995 -> CHEMBL3264994    N/A            N/A                  N/A           N/A
+   be092cb_d5921af  CHEMBL3265002 -> CHEMBL3265001    N/A            N/A                  N/A           N/A
+   a500639_f7adc8e  CHEMBL3265020 -> CHEMBL3264999    N/A            N/A                  N/A           N/A
+   384fdc8_be092cb  CHEMBL3265017 -> CHEMBL3265002    N/A            N/A                  N/A           N/A
+   384fdc8_daf354b  CHEMBL3265017 -> CHEMBL3265030_n  N/A            N/A                  N/A           N/A
+   29c36fb_59b1e4b  CHEMBL3265036 -> CHEMBL3265029    N/A            N/A                  N/A           N/A
+   3df1621_d18e974  CHEMBL3265000 -> CHEMBL3264994    N/A            N/A                  N/A           N/A
+   2de79b1_72eb1aa  CHEMBL3265034 -> CHEMBL3265032    N/A            N/A                  N/A           N/A
+   0d31b4d_2de79b1  CHEMBL3265031 -> CHEMBL3265034    N/A            N/A                  N/A           N/A
+   2de79b1_daf354b  CHEMBL3265034 -> CHEMBL3265030_n  N/A            N/A                  N/A           N/A
+   18bf4d8_dac4e5a  CHEMBL3265035 -> CHEMBL3265026    N/A            N/A                  N/A           N/A
+   a500639_dac4e5a  CHEMBL3265020 -> CHEMBL3265026    N/A            N/A                  N/A           N/A
+   0d31b4d_72eb1aa  CHEMBL3265031 -> CHEMBL3265032    N/A            N/A                  N/A           N/A
+   0d31b4d_a3705ce  CHEMBL3265031 -> CHEMBL3265033    N/A            N/A                  N/A           N/A
+
+* Node calculated properties (units in kcal/mol)
+   Short ID    Ligand           Predicted dG    Experimental dG    Predicted Solvation dG    Experimental Solvation dG
+   ----------  ---------------  --------------  -----------------  ------------------------  ---------------------------
+   71d0e6f     CHEMBL3265037    N/A             N/A                N/A                       N/A
+   cd2d776     CHEMBL3259820    N/A             N/A                N/A                       N/A
+   161113a     CHEMBL3265021    N/A             N/A                N/A                       N/A
+   72c2cd4     CHEMBL3265016    N/A             N/A                N/A                       N/A
+   76bf269     CHEMBL3265028    N/A             N/A                N/A                       N/A
+   5f80774     CHEMBL3265012    N/A             N/A                N/A                       N/A
+   56d0bad     CHEMBL3265004    N/A             N/A                N/A                       N/A
+   f7bb716     CHEMBL3265005    N/A             N/A                N/A                       N/A
+   9352ea3     CHEMBL3265024    N/A             N/A                N/A                       N/A
+   c804203     CHEMBL3265010    N/A             N/A                N/A                       N/A
+   34ff3fd     CHEMBL3265014    N/A             N/A                N/A                       N/A
+   5295938     CHEMBL3265023    N/A             N/A                N/A                       N/A
+   74dff08     CHEMBL3264997    N/A             N/A                N/A                       N/A
+   1894d2d     CHEMBL3264998    N/A             N/A                N/A                       N/A
+   84482d0     CHEMBL3265027    N/A             N/A                N/A                       N/A
+   d2c5ae3     CHEMBL3265006    N/A             N/A                N/A                       N/A
+   f268661     CHEMBL3265003    N/A             N/A                N/A                       N/A
+   7871a46     CHEMBL3265018    N/A             N/A                N/A                       N/A
+   5b53f67     CHEMBL3265025    N/A             N/A                N/A                       N/A
+   aa8f359     CHEMBL3265008    N/A             N/A                N/A                       N/A
+   7b29e79     CHEMBL3265019    N/A             N/A                N/A                       N/A
+   1e0ef00     CHEMBL3265013    N/A             N/A                N/A                       N/A
+   0cd00d5     CHEMBL3265015    N/A             N/A                N/A                       N/A
+   fadb8a6     CHEMBL3264996    N/A             N/A                N/A                       N/A
+   dd52b02     CHEMBL3265022    N/A             N/A                N/A                       N/A
+   978b75e     CHEMBL3264995    N/A             N/A                N/A                       N/A
+   d5921af     CHEMBL3265001    N/A             N/A                N/A                       N/A
+   f7adc8e     CHEMBL3264999    N/A             N/A                N/A                       N/A
+   384fdc8     CHEMBL3265017    N/A             N/A                N/A                       N/A
+   357d2c4     CHEMBL3265009    N/A             N/A                N/A                       N/A
+   59b1e4b     CHEMBL3265029    N/A             N/A                N/A                       N/A
+   d18e974     CHEMBL3264994    N/A             N/A                N/A                       N/A
+   3df1621     CHEMBL3265000    N/A             N/A                N/A                       N/A
+   2de79b1     CHEMBL3265034    N/A             N/A                N/A                       N/A
+   dac4e5a     CHEMBL3265026    N/A             N/A                N/A                       N/A
+   fe2f25d     CHEMBL3265011    N/A             N/A                N/A                       N/A
+   18bf4d8     CHEMBL3265035    N/A             N/A                N/A                       N/A
+   a500639     CHEMBL3265020    N/A             N/A                N/A                       N/A
+   72eb1aa     CHEMBL3265032    N/A             N/A                N/A                       N/A
+   be092cb     CHEMBL3265002    N/A             N/A                N/A                       N/A
+   0d31b4d     CHEMBL3265031    N/A             N/A                N/A                       N/A
+   29c36fb     CHEMBL3265036    N/A             N/A                N/A                       N/A
+   daf354b     CHEMBL3265030_n  N/A             N/A                N/A                       N/A
+   a3705ce     CHEMBL3265033    N/A             N/A                N/A                       N/A
+
+* Simulation Protocol
+   Short ID         Protocol        Number of lambda windows
+   ---------------  ------------  --------------------------
+   1e0ef00_71d0e6f  core-hopping                          16
+   71d0e6f_a500639  default                               12
+   71d0e6f_a3705ce  default                               12
+   161113a_cd2d776  core-hopping                          16
+   5f80774_cd2d776  default                               12
+   0cd00d5_cd2d776  default                               12
+   161113a_9352ea3  core-hopping                          16
+   161113a_5295938  core-hopping                          16
+   161113a_18bf4d8  default                               12
+   72c2cd4_c804203  core-hopping                          16
+   72c2cd4_a500639  default                               12
+   72c2cd4_daf354b  default                               12
+   384fdc8_76bf269  default                               12
+   59b1e4b_76bf269  default                               12
+   5f80774_84482d0  core-hopping                          16
+   56d0bad_f268661  core-hopping                          16
+   56d0bad_f7adc8e  default                               12
+   56d0bad_be092cb  default                               12
+   f7bb716_fe2f25d  default                               12
+   a500639_f7bb716  core-hopping                          16
+   9352ea3_a500639  core-hopping                          16
+   357d2c4_c804203  default                               12
+   34ff3fd_f268661  default                               12
+   34ff3fd_7b29e79  core-hopping                          16
+   1e0ef00_34ff3fd  default                               12
+   0cd00d5_34ff3fd  default                               12
+   34ff3fd_dd52b02  core-hopping                          16
+   34ff3fd_384fdc8  core-hopping                          16
+   34ff3fd_dac4e5a  core-hopping                          16
+   5295938_7871a46  core-hopping                          16
+   1e0ef00_5295938  core-hopping                          16
+   1894d2d_74dff08  charge0                               24
+   74dff08_d5921af  charge0                               24
+   1894d2d_978b75e  charge0                               24
+   1894d2d_3df1621  charge0                               24
+   5b53f67_84482d0  core-hopping                          16
+   384fdc8_84482d0  default                               12
+   357d2c4_84482d0  core-hopping                          16
+   d2c5ae3_fadb8a6  default                               12
+   357d2c4_d2c5ae3  default                               12
+   d2c5ae3_dac4e5a  core-hopping                          16
+   d2c5ae3_fe2f25d  default                               12
+   d5921af_f268661  charge                                24
+   7871a46_aa8f359  core-hopping                          16
+   2de79b1_7871a46  default                               12
+   7871a46_a500639  default                               12
+   7871a46_a3705ce  default                               12
+   5b53f67_a500639  core-hopping                          16
+   a500639_aa8f359  core-hopping                          16
+   7b29e79_dd52b02  default                               12
+   384fdc8_7b29e79  default                               12
+   0cd00d5_fadb8a6  default                               12
+   357d2c4_dd52b02  core-hopping                          16
+   59b1e4b_dd52b02  default                               12
+   18bf4d8_dd52b02  default                               12
+   72eb1aa_dd52b02  default                               12
+   29c36fb_dd52b02  default                               12
+   978b75e_d5921af  charge0                               24
+   978b75e_d18e974  default                               12
+   be092cb_d5921af  charge                                24
+   a500639_f7adc8e  core-hopping                          16
+   384fdc8_be092cb  core-hopping                          16
+   384fdc8_daf354b  default                               12
+   29c36fb_59b1e4b  default                               12
+   3df1621_d18e974  charge0                               24
+   2de79b1_72eb1aa  default                               12
+   0d31b4d_2de79b1  core-hopping                          16
+   2de79b1_daf354b  default                               12
+   18bf4d8_dac4e5a  core-hopping                          16
+   a500639_dac4e5a  core-hopping                          16
+   0d31b4d_72eb1aa  core-hopping                          16
+   0d31b4d_a3705ce  core-hopping                          16
+
+* Number of connected components: 1
+* Most connected nodes (9 degree)
+	a500639: CHEMBL3265020
+* Least connected nodes (2 degree)
+	76bf269: CHEMBL3265028
+	5f80774: CHEMBL3265012
+	f7bb716: CHEMBL3265005
+	9352ea3: CHEMBL3265024
+	c804203: CHEMBL3265010
+	74dff08: CHEMBL3264997
+	5b53f67: CHEMBL3265025
+	aa8f359: CHEMBL3265008
+	fadb8a6: CHEMBL3264996
+	f7adc8e: CHEMBL3264999
+	d18e974: CHEMBL3264994
+	3df1621: CHEMBL3265000
+	fe2f25d: CHEMBL3265011
+	29c36fb: CHEMBL3265036
+* Bad edge
+	There is no bad edges
+* Average similarity: 0.5340
+* Similarity
+   Short ID           Total    Mcs    Charge    SoftBond    MinimumNumberOfAtom    SnapCoreRmsd    BidirectionSnapCore
+   ---------------  -------  -----  --------  ----------  ---------------------  --------------  ---------------------
+   1e0ef00_71d0e6f     0.25   0.27      1.00        0.90                   1.00            1.00                   1.00
+   71d0e6f_a500639     0.45   0.45      1.00        1.00                   1.00            1.00                   1.00
+   71d0e6f_a3705ce     0.66   0.67      1.00        1.00                   1.00            0.99                   1.00
+   161113a_cd2d776     0.50   0.55      1.00        0.90                   1.00            1.00                   1.00
+   5f80774_cd2d776     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   0cd00d5_cd2d776     0.60   0.61      1.00        1.00                   1.00            0.99                   1.00
+   161113a_9352ea3     0.67   0.82      1.00        0.82                   1.00            0.99                   1.00
+   161113a_5295938     0.49   0.61      1.00        0.82                   1.00            0.99                   1.00
+   161113a_18bf4d8     0.60   0.61      1.00        1.00                   1.00            1.00                   1.00
+   72c2cd4_c804203     0.74   0.82      1.00        0.90                   1.00            0.99                   1.00
+   72c2cd4_a500639     1.00   1.00      1.00        1.00                   1.00            1.00                   1.00
+   72c2cd4_daf354b     0.37   0.37      1.00        1.00                   1.00            1.00                   1.00
+   384fdc8_76bf269     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   59b1e4b_76bf269     0.67   0.67      1.00        1.00                   1.00            1.00                   1.00
+   5f80774_84482d0     0.37   0.41      1.00        0.90                   1.00            1.00                   1.00
+   56d0bad_f268661     0.66   0.82      1.00        0.82                   1.00            0.99                   1.00
+   56d0bad_f7adc8e     0.45   0.45      1.00        1.00                   1.00            1.00                   1.00
+   56d0bad_be092cb     0.36   0.37      1.00        1.00                   1.00            0.99                   1.00
+   f7bb716_fe2f25d     0.90   0.90      1.00        1.00                   1.00            0.99                   1.00
+   a500639_f7bb716     0.60   0.67      1.00        0.90                   1.00            1.00                   1.00
+   9352ea3_a500639     0.67   0.82      1.00        0.82                   1.00            1.00                   1.00
+   357d2c4_c804203     0.73   0.74      1.00        1.00                   1.00            0.99                   1.00
+   34ff3fd_f268661     0.15   0.15      1.00        1.00                   1.00            1.00                   1.00
+   34ff3fd_7b29e79     0.74   0.82      1.00        0.90                   1.00            0.99                   1.00
+   1e0ef00_34ff3fd     0.49   0.50      1.00        1.00                   1.00            1.00                   1.00
+   0cd00d5_34ff3fd     0.73   0.74      1.00        1.00                   1.00            0.99                   1.00
+   34ff3fd_dd52b02     0.81   0.90      1.00        0.90                   1.00            0.99                   1.00
+   34ff3fd_384fdc8     0.74   0.82      1.00        0.90                   1.00            0.99                   1.00
+   34ff3fd_dac4e5a     0.81   0.90      1.00        0.90                   1.00            0.99                   1.00
+   5295938_7871a46     0.41   0.50      1.00        0.82                   1.00            1.00                   1.00
+   1e0ef00_5295938     0.41   0.45      1.00        0.90                   1.00            1.00                   1.00
+   1894d2d_74dff08     0.49   0.50      1.00        1.00                   1.00            0.99                   1.00
+   74dff08_d5921af     0.45   0.45      1.00        1.00                   1.00            0.99                   1.00
+   1894d2d_978b75e     0.49   0.50      1.00        1.00                   1.00            0.99                   1.00
+   1894d2d_3df1621     0.33   0.33      1.00        1.00                   1.00            0.99                   1.00
+   5b53f67_84482d0     0.45   0.55      1.00        0.82                   1.00            0.99                   1.00
+   384fdc8_84482d0     0.67   0.67      1.00        1.00                   1.00            1.00                   1.00
+   357d2c4_84482d0     0.55   0.61      1.00        0.90                   1.00            0.99                   1.00
+   d2c5ae3_fadb8a6     0.22   0.22      1.00        1.00                   1.00            0.99                   1.00
+   357d2c4_d2c5ae3     0.81   0.82      1.00        1.00                   1.00            0.99                   1.00
+   d2c5ae3_dac4e5a     0.40   0.45      1.00        0.90                   1.00            0.99                   1.00
+   d2c5ae3_fe2f25d     0.66   0.67      1.00        1.00                   1.00            0.99                   1.00
+   d5921af_f268661     0.10   1.00      0.10        1.00                   1.00            0.99                   1.00
+   7871a46_aa8f359     0.45   0.50      1.00        0.90                   1.00            1.00                   1.00
+   2de79b1_7871a46     0.37   0.37      1.00        1.00                   1.00            1.00                   1.00
+   7871a46_a500639     1.00   1.00      1.00        1.00                   1.00            1.00                   1.00
+   7871a46_a3705ce     0.30   0.30      1.00        1.00                   1.00            1.00                   1.00
+   5b53f67_a500639     0.67   0.82      1.00        0.82                   1.00            1.00                   1.00
+   a500639_aa8f359     0.55   0.61      1.00        0.90                   1.00            1.00                   1.00
+   7b29e79_dd52b02     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   384fdc8_7b29e79     1.00   1.00      1.00        1.00                   1.00            1.00                   1.00
+   0cd00d5_fadb8a6     0.18   0.18      1.00        1.00                   1.00            0.99                   1.00
+   357d2c4_dd52b02     0.74   0.82      1.00        0.90                   1.00            0.99                   1.00
+   59b1e4b_dd52b02     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   18bf4d8_dd52b02     0.55   0.55      1.00        1.00                   1.00            1.00                   1.00
+   72eb1aa_dd52b02     0.33   0.33      1.00        1.00                   1.00            1.00                   1.00
+   29c36fb_dd52b02     0.30   0.30      1.00        1.00                   1.00            1.00                   1.00
+   978b75e_d5921af     0.45   0.45      1.00        1.00                   1.00            1.00                   1.00
+   978b75e_d18e974     0.53   0.55      1.00        1.00                   1.00            0.97                   1.00
+   be092cb_d5921af     0.10   1.00      0.10        1.00                   1.00            0.99                   1.00
+   a500639_f7adc8e     0.25   0.27      1.00        0.90                   1.00            1.00                   1.00
+   384fdc8_be092cb     0.16   0.18      1.00        0.90                   1.00            1.00                   1.00
+   384fdc8_daf354b     0.37   0.37      1.00        1.00                   1.00            1.00                   1.00
+   29c36fb_59b1e4b     0.41   0.41      1.00        1.00                   1.00            1.00                   1.00
+   3df1621_d18e974     0.04   0.04      1.00        1.00                   1.00            1.00                   1.00
+   2de79b1_72eb1aa     0.99   1.00      1.00        1.00                   1.00            0.99                   1.00
+   0d31b4d_2de79b1     0.44   0.55      1.00        0.82                   1.00            0.99                   1.00
+   2de79b1_daf354b     0.30   0.30      1.00        1.00                   1.00            1.00                   1.00
+   18bf4d8_dac4e5a     0.45   0.55      1.00        0.82                   1.00            0.99                   1.00
+   a500639_dac4e5a     0.74   0.90      1.00        0.82                   1.00            1.00                   1.00
+   0d31b4d_72eb1aa     0.45   0.55      1.00        0.82                   1.00            0.99                   1.00
+   0d31b4d_a3705ce     0.36   0.45      1.00        0.82                   1.00            0.99                   1.00
+

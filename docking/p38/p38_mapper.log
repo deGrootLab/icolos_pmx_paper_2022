@@ -1,0 +1,237 @@
+* fep_type: small_molecule
+* Number of nodes: 33
+* Number of edges: 55
+* fmpdb filename: N/A
+* Receptor
+	p38 - 5-minimized: 5615 atoms
+* Environment structures
+	p38 - 5-minimized: 5615 atoms
+* Edge calculated properties (units in kcal/mol)
+   Short ID         ligand1 -> ligand2              Bennett ddG    Cycle Closure ddG    Complex dG    Solvent dG
+   ---------------  ------------------------------  -------------  -------------------  ------------  ------------
+   c6946e5_ec190fe  lig_p38a_2l -> lig_p38a_3fln    N/A            N/A                  N/A           N/A
+   2e7d67a_c6946e5  lig_p38a_2j -> lig_p38a_2l      N/A            N/A                  N/A           N/A
+   a49ff60_c6946e5  lig_p38a_2ff -> lig_p38a_2l     N/A            N/A                  N/A           N/A
+   67d7385_c6946e5  lig_p38a_2f -> lig_p38a_2l      N/A            N/A                  N/A           N/A
+   06fb0e5_2e7d67a  lig_p38a_3fmh -> lig_p38a_2j    N/A            N/A                  N/A           N/A
+   06fb0e5_3cb0917  lig_p38a_3fmh -> lig_p38a_3flq  N/A            N/A                  N/A           N/A
+   3cb0917_ec190fe  lig_p38a_3flq -> lig_p38a_3fln  N/A            N/A                  N/A           N/A
+   ec190fe_f895b60  lig_p38a_3fln -> lig_p38a_2r    N/A            N/A                  N/A           N/A
+   06c56c5_ec190fe  lig_p38a_2g -> lig_p38a_3fln    N/A            N/A                  N/A           N/A
+   396f6c0_ec190fe  lig_p38a_2o -> lig_p38a_3fln    N/A            N/A                  N/A           N/A
+   932532b_ec190fe  lig_p38a_2m -> lig_p38a_3fln    N/A            N/A                  N/A           N/A
+   bc7848a_ec190fe  lig_p38a_2ee -> lig_p38a_3fln   N/A            N/A                  N/A           N/A
+   2e7d67a_9e11dad  lig_p38a_2j -> lig_p38a_2z      N/A            N/A                  N/A           N/A
+   2e7d67a_dd057b1  lig_p38a_2j -> lig_p38a_2s      N/A            N/A                  N/A           N/A
+   151d931_2e7d67a  lig_p38a_2i -> lig_p38a_2j      N/A            N/A                  N/A           N/A
+   2e7d67a_a49ff60  lig_p38a_2j -> lig_p38a_2ff     N/A            N/A                  N/A           N/A
+   9e11dad_dd057b1  lig_p38a_2z -> lig_p38a_2s      N/A            N/A                  N/A           N/A
+   3a5ec71_9e11dad  lig_p38a_2aa -> lig_p38a_2z     N/A            N/A                  N/A           N/A
+   b2917d9_d363fad  lig_p38a_3fly -> lig_p38a_2gg   N/A            N/A                  N/A           N/A
+   151d931_b2917d9  lig_p38a_2i -> lig_p38a_3fly    N/A            N/A                  N/A           N/A
+   0551d34_b2917d9  lig_p38a_2e -> lig_p38a_3fly    N/A            N/A                  N/A           N/A
+   3cb0917_d363fad  lig_p38a_3flq -> lig_p38a_2gg   N/A            N/A                  N/A           N/A
+   d363fad_e996a33  lig_p38a_2gg -> lig_p38a_2q     N/A            N/A                  N/A           N/A
+   40f93bc_b6facb2  lig_p38a_2h -> lig_p38a_2k      N/A            N/A                  N/A           N/A
+   0681973_b6facb2  lig_p38a_2v -> lig_p38a_2k      N/A            N/A                  N/A           N/A
+   0681973_dd057b1  lig_p38a_2v -> lig_p38a_2s      N/A            N/A                  N/A           N/A
+   bc7848a_dd057b1  lig_p38a_2ee -> lig_p38a_2s     N/A            N/A                  N/A           N/A
+   151d931_f895b60  lig_p38a_2i -> lig_p38a_2r      N/A            N/A                  N/A           N/A
+   c10fa56_f895b60  lig_p38a_3fmk -> lig_p38a_2r    N/A            N/A                  N/A           N/A
+   9972075_f895b60  lig_p38a_2c -> lig_p38a_2r      N/A            N/A                  N/A           N/A
+   06c56c5_151d931  lig_p38a_2g -> lig_p38a_2i      N/A            N/A                  N/A           N/A
+   bc7848a_e996a33  lig_p38a_2ee -> lig_p38a_2q     N/A            N/A                  N/A           N/A
+   40f93bc_71596eb  lig_p38a_2h -> lig_p38a_2bb     N/A            N/A                  N/A           N/A
+   40f93bc_6eaede8  lig_p38a_2h -> lig_p38a_2p      N/A            N/A                  N/A           N/A
+   0551d34_0681973  lig_p38a_2e -> lig_p38a_2v      N/A            N/A                  N/A           N/A
+   0551d34_67d7385  lig_p38a_2e -> lig_p38a_2f      N/A            N/A                  N/A           N/A
+   c10fa56_d196d56  lig_p38a_3fmk -> lig_p38a_3flw  N/A            N/A                  N/A           N/A
+   8ac9b74_c10fa56  lig_p38a_2y -> lig_p38a_3fmk    N/A            N/A                  N/A           N/A
+   c10fa56_c43895d  lig_p38a_3fmk -> lig_p38a_2u    N/A            N/A                  N/A           N/A
+   31ea4ce_71596eb  lig_p38a_3flz -> lig_p38a_2bb   N/A            N/A                  N/A           N/A
+   67d7385_71596eb  lig_p38a_2f -> lig_p38a_2bb     N/A            N/A                  N/A           N/A
+   3a5ec71_8ac9b74  lig_p38a_2aa -> lig_p38a_2y     N/A            N/A                  N/A           N/A
+   337ebab_a49ff60  lig_p38a_2n -> lig_p38a_2ff     N/A            N/A                  N/A           N/A
+   9972075_a49ff60  lig_p38a_2c -> lig_p38a_2ff     N/A            N/A                  N/A           N/A
+   932532b_a49ff60  lig_p38a_2m -> lig_p38a_2ff     N/A            N/A                  N/A           N/A
+   337ebab_9972075  lig_p38a_2n -> lig_p38a_2c      N/A            N/A                  N/A           N/A
+   d196d56_e36e8ac  lig_p38a_3flw -> lig_p38a_2x    N/A            N/A                  N/A           N/A
+   8ac9b74_e36e8ac  lig_p38a_2y -> lig_p38a_2x      N/A            N/A                  N/A           N/A
+   0681973_e36e8ac  lig_p38a_2v -> lig_p38a_2x      N/A            N/A                  N/A           N/A
+   06c56c5_31ea4ce  lig_p38a_2g -> lig_p38a_3flz    N/A            N/A                  N/A           N/A
+   31ea4ce_67d7385  lig_p38a_3flz -> lig_p38a_2f    N/A            N/A                  N/A           N/A
+   0681973_67d7385  lig_p38a_2v -> lig_p38a_2f      N/A            N/A                  N/A           N/A
+   396f6c0_c43895d  lig_p38a_2o -> lig_p38a_2u      N/A            N/A                  N/A           N/A
+   6eaede8_932532b  lig_p38a_2p -> lig_p38a_2m      N/A            N/A                  N/A           N/A
+   6eaede8_bc7848a  lig_p38a_2p -> lig_p38a_2ee     N/A            N/A                  N/A           N/A
+
+* Node calculated properties (units in kcal/mol)
+   Short ID    Ligand         Predicted dG    Experimental dG    Predicted Solvation dG    Experimental Solvation dG
+   ----------  -------------  --------------  -----------------  ------------------------  ---------------------------
+   c6946e5     lig_p38a_2l    N/A             N/A                N/A                       N/A
+   06fb0e5     lig_p38a_3fmh  N/A             N/A                N/A                       N/A
+   ec190fe     lig_p38a_3fln  N/A             N/A                N/A                       N/A
+   2e7d67a     lig_p38a_2j    N/A             N/A                N/A                       N/A
+   9e11dad     lig_p38a_2z    N/A             N/A                N/A                       N/A
+   b2917d9     lig_p38a_3fly  N/A             N/A                N/A                       N/A
+   d363fad     lig_p38a_2gg   N/A             N/A                N/A                       N/A
+   3cb0917     lig_p38a_3flq  N/A             N/A                N/A                       N/A
+   b6facb2     lig_p38a_2k    N/A             N/A                N/A                       N/A
+   dd057b1     lig_p38a_2s    N/A             N/A                N/A                       N/A
+   f895b60     lig_p38a_2r    N/A             N/A                N/A                       N/A
+   151d931     lig_p38a_2i    N/A             N/A                N/A                       N/A
+   e996a33     lig_p38a_2q    N/A             N/A                N/A                       N/A
+   40f93bc     lig_p38a_2h    N/A             N/A                N/A                       N/A
+   0551d34     lig_p38a_2e    N/A             N/A                N/A                       N/A
+   c10fa56     lig_p38a_3fmk  N/A             N/A                N/A                       N/A
+   71596eb     lig_p38a_2bb   N/A             N/A                N/A                       N/A
+   3a5ec71     lig_p38a_2aa   N/A             N/A                N/A                       N/A
+   a49ff60     lig_p38a_2ff   N/A             N/A                N/A                       N/A
+   337ebab     lig_p38a_2n    N/A             N/A                N/A                       N/A
+   e36e8ac     lig_p38a_2x    N/A             N/A                N/A                       N/A
+   d196d56     lig_p38a_3flw  N/A             N/A                N/A                       N/A
+   31ea4ce     lig_p38a_3flz  N/A             N/A                N/A                       N/A
+   8ac9b74     lig_p38a_2y    N/A             N/A                N/A                       N/A
+   0681973     lig_p38a_2v    N/A             N/A                N/A                       N/A
+   c43895d     lig_p38a_2u    N/A             N/A                N/A                       N/A
+   6eaede8     lig_p38a_2p    N/A             N/A                N/A                       N/A
+   06c56c5     lig_p38a_2g    N/A             N/A                N/A                       N/A
+   396f6c0     lig_p38a_2o    N/A             N/A                N/A                       N/A
+   67d7385     lig_p38a_2f    N/A             N/A                N/A                       N/A
+   9972075     lig_p38a_2c    N/A             N/A                N/A                       N/A
+   932532b     lig_p38a_2m    N/A             N/A                N/A                       N/A
+   bc7848a     lig_p38a_2ee   N/A             N/A                N/A                       N/A
+
+* Simulation Protocol
+   Short ID         Protocol      Number of lambda windows
+   ---------------  ----------  --------------------------
+   c6946e5_ec190fe  default                             12
+   2e7d67a_c6946e5  default                             12
+   a49ff60_c6946e5  default                             12
+   67d7385_c6946e5  default                             12
+   06fb0e5_2e7d67a  default                             12
+   06fb0e5_3cb0917  default                             12
+   3cb0917_ec190fe  default                             12
+   ec190fe_f895b60  default                             12
+   06c56c5_ec190fe  default                             12
+   396f6c0_ec190fe  default                             12
+   932532b_ec190fe  default                             12
+   bc7848a_ec190fe  default                             12
+   2e7d67a_9e11dad  default                             12
+   2e7d67a_dd057b1  default                             12
+   151d931_2e7d67a  default                             12
+   2e7d67a_a49ff60  default                             12
+   9e11dad_dd057b1  default                             12
+   3a5ec71_9e11dad  default                             12
+   b2917d9_d363fad  default                             12
+   151d931_b2917d9  default                             12
+   0551d34_b2917d9  default                             12
+   3cb0917_d363fad  default                             12
+   d363fad_e996a33  default                             12
+   40f93bc_b6facb2  default                             12
+   0681973_b6facb2  default                             12
+   0681973_dd057b1  default                             12
+   bc7848a_dd057b1  default                             12
+   151d931_f895b60  default                             12
+   c10fa56_f895b60  default                             12
+   9972075_f895b60  default                             12
+   06c56c5_151d931  default                             12
+   bc7848a_e996a33  default                             12
+   40f93bc_71596eb  default                             12
+   40f93bc_6eaede8  default                             12
+   0551d34_0681973  default                             12
+   0551d34_67d7385  default                             12
+   c10fa56_d196d56  default                             12
+   8ac9b74_c10fa56  default                             12
+   c10fa56_c43895d  default                             12
+   31ea4ce_71596eb  default                             12
+   67d7385_71596eb  default                             12
+   3a5ec71_8ac9b74  default                             12
+   337ebab_a49ff60  default                             12
+   9972075_a49ff60  default                             12
+   932532b_a49ff60  default                             12
+   337ebab_9972075  default                             12
+   d196d56_e36e8ac  default                             12
+   8ac9b74_e36e8ac  default                             12
+   0681973_e36e8ac  default                             12
+   06c56c5_31ea4ce  default                             12
+   31ea4ce_67d7385  default                             12
+   0681973_67d7385  default                             12
+   396f6c0_c43895d  default                             12
+   6eaede8_932532b  default                             12
+   6eaede8_bc7848a  default                             12
+
+* Number of connected components: 1
+* Most connected nodes (7 degree)
+	ec190fe: lig_p38a_3fln
+* Least connected nodes (2 degree)
+	06fb0e5: lig_p38a_3fmh
+	b6facb2: lig_p38a_2k
+	e996a33: lig_p38a_2q
+	3a5ec71: lig_p38a_2aa
+	337ebab: lig_p38a_2n
+	d196d56: lig_p38a_3flw
+	c43895d: lig_p38a_2u
+	396f6c0: lig_p38a_2o
+* Bad edge
+	There is no bad edges
+* Average similarity: 0.4069
+* Similarity
+   Short ID           Total    Mcs    Charge    SoftBond    MinimumNumberOfAtom    SnapCoreRmsd    BidirectionSnapCore
+   ---------------  -------  -----  --------  ----------  ---------------------  --------------  ---------------------
+   c6946e5_ec190fe     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   2e7d67a_c6946e5     0.90   0.90      1.00        1.00                   1.00            0.99                   1.00
+   a49ff60_c6946e5     0.81   0.82      1.00        1.00                   1.00            0.99                   1.00
+   67d7385_c6946e5     0.20   0.20      1.00        1.00                   1.00            0.99                   1.00
+   06fb0e5_2e7d67a     0.25   0.25      1.00        1.00                   1.00            0.99                   1.00
+   06fb0e5_3cb0917     0.27   0.27      1.00        1.00                   1.00            0.99                   1.00
+   3cb0917_ec190fe     0.22   0.22      1.00        1.00                   1.00            0.99                   1.00
+   ec190fe_f895b60     0.55   0.55      1.00        1.00                   1.00            1.00                   1.00
+   06c56c5_ec190fe     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   396f6c0_ec190fe     0.60   0.61      1.00        1.00                   1.00            1.00                   1.00
+   932532b_ec190fe     0.67   0.67      1.00        1.00                   1.00            1.00                   1.00
+   bc7848a_ec190fe     0.73   0.74      1.00        1.00                   1.00            0.98                   1.00
+   2e7d67a_9e11dad     0.33   0.33      1.00        1.00                   1.00            0.99                   1.00
+   2e7d67a_dd057b1     0.67   0.67      1.00        1.00                   1.00            0.99                   1.00
+   151d931_2e7d67a     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   2e7d67a_a49ff60     0.90   0.90      1.00        1.00                   1.00            0.99                   1.00
+   9e11dad_dd057b1     0.22   0.22      1.00        1.00                   1.00            1.00                   1.00
+   3a5ec71_9e11dad     0.67   0.67      1.00        1.00                   1.00            1.00                   1.00
+   b2917d9_d363fad     0.33   0.33      1.00        1.00                   1.00            1.00                   1.00
+   151d931_b2917d9     0.37   0.37      1.00        1.00                   1.00            0.99                   1.00
+   0551d34_b2917d9     0.09   0.09      1.00        1.00                   1.00            0.99                   1.00
+   3cb0917_d363fad     0.18   0.18      1.00        1.00                   1.00            0.99                   1.00
+   d363fad_e996a33     0.33   0.33      1.00        1.00                   1.00            1.00                   1.00
+   40f93bc_b6facb2     0.24   0.25      1.00        1.00                   1.00            0.99                   1.00
+   0681973_b6facb2     0.45   0.45      1.00        1.00                   1.00            1.00                   1.00
+   0681973_dd057b1     0.07   0.07      1.00        1.00                   1.00            0.99                   1.00
+   bc7848a_dd057b1     0.15   0.15      1.00        1.00                   1.00            0.99                   1.00
+   151d931_f895b60     0.49   0.50      1.00        1.00                   1.00            0.99                   1.00
+   c10fa56_f895b60     0.13   0.14      1.00        1.00                   1.00            0.99                   1.00
+   9972075_f895b60     0.13   0.14      1.00        1.00                   1.00            0.99                   1.00
+   06c56c5_151d931     0.81   0.82      1.00        1.00                   1.00            0.99                   1.00
+   bc7848a_e996a33     0.30   0.30      1.00        1.00                   1.00            1.00                   1.00
+   40f93bc_71596eb     0.27   0.27      1.00        1.00                   1.00            0.99                   1.00
+   40f93bc_6eaede8     0.10   0.10      1.00        1.00                   1.00            0.98                   1.00
+   0551d34_0681973     0.45   0.45      1.00        1.00                   1.00            1.00                   1.00
+   0551d34_67d7385     0.81   0.82      1.00        1.00                   1.00            0.99                   1.00
+   c10fa56_d196d56     0.06   0.07      1.00        1.00                   1.00            0.95                   1.00
+   8ac9b74_c10fa56     0.40   0.41      1.00        1.00                   1.00            0.99                   1.00
+   c10fa56_c43895d     0.07   0.07      1.00        1.00                   1.00            1.00                   1.00
+   31ea4ce_71596eb     0.25   0.25      1.00        1.00                   1.00            0.99                   1.00
+   67d7385_71596eb     0.22   0.22      1.00        1.00                   1.00            0.99                   1.00
+   3a5ec71_8ac9b74     0.66   0.67      1.00        1.00                   1.00            0.99                   1.00
+   337ebab_a49ff60     0.67   0.67      1.00        1.00                   1.00            0.99                   1.00
+   9972075_a49ff60     0.18   0.18      1.00        1.00                   1.00            0.99                   1.00
+   932532b_a49ff60     0.60   0.61      1.00        1.00                   1.00            0.99                   1.00
+   337ebab_9972075     0.15   0.15      1.00        1.00                   1.00            0.99                   1.00
+   d196d56_e36e8ac     0.06   0.06      1.00        1.00                   1.00            0.99                   1.00
+   8ac9b74_e36e8ac     0.37   0.37      1.00        1.00                   1.00            1.00                   1.00
+   0681973_e36e8ac     0.11   0.11      1.00        1.00                   1.00            0.99                   1.00
+   06c56c5_31ea4ce     0.27   0.27      1.00        1.00                   1.00            0.99                   1.00
+   31ea4ce_67d7385     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   0681973_67d7385     0.37   0.37      1.00        1.00                   1.00            0.99                   1.00
+   396f6c0_c43895d     0.05   0.05      1.00        1.00                   1.00            0.99                   1.00
+   6eaede8_932532b     0.37   0.37      1.00        1.00                   1.00            1.00                   1.00
+   6eaede8_bc7848a     0.40   0.41      1.00        1.00                   1.00            0.98                   1.00
+

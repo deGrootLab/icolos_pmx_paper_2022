@@ -1,0 +1,163 @@
+* fep_type: small_molecule
+* Number of nodes: 22
+* Number of edges: 33
+* fmpdb filename: N/A
+* Receptor
+	ptp1b: 4820 atoms
+* Environment structures
+	ptp1b: 4820 atoms
+* Edge calculated properties (units in kcal/mol)
+   Short ID         ligand1 -> ligand2           Bennett ddG    Cycle Closure ddG    Complex dG    Solvent dG
+   ---------------  ---------------------------  -------------  -------------------  ------------  ------------
+   0ed8de8_6ba0f73  lig_23475 -> lig_23477       N/A            N/A                  N/A           N/A
+   0ed8de8_c2be211  lig_23475 -> lig_23476       N/A            N/A                  N/A           N/A
+   0ed8de8_c393e3b  lig_23475 -> lig_23471       N/A            N/A                  N/A           N/A
+   0ed8de8_de3b443  lig_23475 -> lig_20667_2qbp  N/A            N/A                  N/A           N/A
+   3ec440a_a367385  lig_23473 -> lig_23472       N/A            N/A                  N/A           N/A
+   04fe595_3ec440a  lig_23474 -> lig_23473       N/A            N/A                  N/A           N/A
+   04fe595_a367385  lig_23474 -> lig_23472       N/A            N/A                  N/A           N/A
+   a367385_b3bcd3f  lig_23472 -> lig_23466       N/A            N/A                  N/A           N/A
+   6fe2d9e_927ccc4  lig_23479 -> lig_23483       N/A            N/A                  N/A           N/A
+   927ccc4_b3bcd3f  lig_23483 -> lig_23466       N/A            N/A                  N/A           N/A
+   6ba0f73_b3bcd3f  lig_23477 -> lig_23466       N/A            N/A                  N/A           N/A
+   73b9800_7d66997  lig_23482 -> lig_23486       N/A            N/A                  N/A           N/A
+   73b9800_de3b443  lig_23482 -> lig_20667_2qbp  N/A            N/A                  N/A           N/A
+   7d66997_c2be211  lig_23486 -> lig_23476       N/A            N/A                  N/A           N/A
+   6fe2d9e_7d66997  lig_23479 -> lig_23486       N/A            N/A                  N/A           N/A
+   6fe2d9e_f1ee6df  lig_23479 -> lig_23484       N/A            N/A                  N/A           N/A
+   4b46bf2_c393e3b  lig_23469 -> lig_23471       N/A            N/A                  N/A           N/A
+   04fe595_4b46bf2  lig_23474 -> lig_23469       N/A            N/A                  N/A           N/A
+   4b46bf2_de3b443  lig_23469 -> lig_20667_2qbp  N/A            N/A                  N/A           N/A
+   8c54db8_c393e3b  lig_23467 -> lig_23471       N/A            N/A                  N/A           N/A
+   8c54db8_c964e05  lig_23467 -> lig_20669_2qbr  N/A            N/A                  N/A           N/A
+   39ca6aa_8c54db8  lig_23485 -> lig_23467       N/A            N/A                  N/A           N/A
+   235bba4_8c54db8  lig_23468 -> lig_23467       N/A            N/A                  N/A           N/A
+   8c54db8_b3bcd3f  lig_23467 -> lig_23466       N/A            N/A                  N/A           N/A
+   7d66997_b3bcd3f  lig_23486 -> lig_23466       N/A            N/A                  N/A           N/A
+   38c8fbf_e8ba317  lig_23470 -> lig_23480       N/A            N/A                  N/A           N/A
+   a66e2ba_e8ba317  lig_20670_2qbs -> lig_23480  N/A            N/A                  N/A           N/A
+   38c8fbf_b3bcd3f  lig_23470 -> lig_23466       N/A            N/A                  N/A           N/A
+   b3bcd3f_c964e05  lig_23466 -> lig_20669_2qbr  N/A            N/A                  N/A           N/A
+   39ca6aa_b3bcd3f  lig_23485 -> lig_23466       N/A            N/A                  N/A           N/A
+   de3b443_f1ee6df  lig_20667_2qbp -> lig_23484  N/A            N/A                  N/A           N/A
+   235bba4_a66e2ba  lig_23468 -> lig_20670_2qbs  N/A            N/A                  N/A           N/A
+   a66e2ba_b3bcd3f  lig_20670_2qbs -> lig_23466  N/A            N/A                  N/A           N/A
+
+* Node calculated properties (units in kcal/mol)
+   Short ID    Ligand          Predicted dG    Experimental dG    Predicted Solvation dG    Experimental Solvation dG
+   ----------  --------------  --------------  -----------------  ------------------------  ---------------------------
+   0ed8de8     lig_23475       N/A             N/A                N/A                       N/A
+   3ec440a     lig_23473       N/A             N/A                N/A                       N/A
+   a367385     lig_23472       N/A             N/A                N/A                       N/A
+   927ccc4     lig_23483       N/A             N/A                N/A                       N/A
+   6ba0f73     lig_23477       N/A             N/A                N/A                       N/A
+   73b9800     lig_23482       N/A             N/A                N/A                       N/A
+   c2be211     lig_23476       N/A             N/A                N/A                       N/A
+   6fe2d9e     lig_23479       N/A             N/A                N/A                       N/A
+   4b46bf2     lig_23469       N/A             N/A                N/A                       N/A
+   c393e3b     lig_23471       N/A             N/A                N/A                       N/A
+   8c54db8     lig_23467       N/A             N/A                N/A                       N/A
+   7d66997     lig_23486       N/A             N/A                N/A                       N/A
+   e8ba317     lig_23480       N/A             N/A                N/A                       N/A
+   38c8fbf     lig_23470       N/A             N/A                N/A                       N/A
+   c964e05     lig_20669_2qbr  N/A             N/A                N/A                       N/A
+   39ca6aa     lig_23485       N/A             N/A                N/A                       N/A
+   04fe595     lig_23474       N/A             N/A                N/A                       N/A
+   de3b443     lig_20667_2qbp  N/A             N/A                N/A                       N/A
+   235bba4     lig_23468       N/A             N/A                N/A                       N/A
+   f1ee6df     lig_23484       N/A             N/A                N/A                       N/A
+   a66e2ba     lig_20670_2qbs  N/A             N/A                N/A                       N/A
+   b3bcd3f     lig_23466       N/A             N/A                N/A                       N/A
+
+* Simulation Protocol
+   Short ID         Protocol      Number of lambda windows
+   ---------------  ----------  --------------------------
+   0ed8de8_6ba0f73  default                             12
+   0ed8de8_c2be211  default                             12
+   0ed8de8_c393e3b  default                             12
+   0ed8de8_de3b443  default                             12
+   3ec440a_a367385  default                             12
+   04fe595_3ec440a  default                             12
+   04fe595_a367385  default                             12
+   a367385_b3bcd3f  default                             12
+   6fe2d9e_927ccc4  default                             12
+   927ccc4_b3bcd3f  default                             12
+   6ba0f73_b3bcd3f  default                             12
+   73b9800_7d66997  default                             12
+   73b9800_de3b443  default                             12
+   7d66997_c2be211  default                             12
+   6fe2d9e_7d66997  default                             12
+   6fe2d9e_f1ee6df  default                             12
+   4b46bf2_c393e3b  default                             12
+   04fe595_4b46bf2  default                             12
+   4b46bf2_de3b443  default                             12
+   8c54db8_c393e3b  default                             12
+   8c54db8_c964e05  default                             12
+   39ca6aa_8c54db8  default                             12
+   235bba4_8c54db8  default                             12
+   8c54db8_b3bcd3f  default                             12
+   7d66997_b3bcd3f  default                             12
+   38c8fbf_e8ba317  default                             12
+   a66e2ba_e8ba317  default                             12
+   38c8fbf_b3bcd3f  default                             12
+   b3bcd3f_c964e05  default                             12
+   39ca6aa_b3bcd3f  default                             12
+   de3b443_f1ee6df  default                             12
+   235bba4_a66e2ba  default                             12
+   a66e2ba_b3bcd3f  default                             12
+
+* Number of connected components: 1
+* Most connected nodes (9 degree)
+	b3bcd3f: lig_23466
+* Least connected nodes (2 degree)
+	3ec440a: lig_23473
+	927ccc4: lig_23483
+	6ba0f73: lig_23477
+	73b9800: lig_23482
+	c2be211: lig_23476
+	e8ba317: lig_23480
+	38c8fbf: lig_23470
+	c964e05: lig_20669_2qbr
+	39ca6aa: lig_23485
+	235bba4: lig_23468
+	f1ee6df: lig_23484
+* Bad edge
+	There is no bad edges
+* Average similarity: 0.4017
+* Similarity
+   Short ID           Total    Mcs    Charge    SoftBond    MinimumNumberOfAtom    SnapCoreRmsd    BidirectionSnapCore
+   ---------------  -------  -----  --------  ----------  ---------------------  --------------  ---------------------
+   0ed8de8_6ba0f73     0.33   0.33      1.00        1.00                   1.00            1.00                   1.00
+   0ed8de8_c2be211     0.30   0.30      1.00        1.00                   1.00            0.99                   1.00
+   0ed8de8_c393e3b     0.26   0.33      1.00        1.00                   1.00            0.79                   1.00
+   0ed8de8_de3b443     0.12   0.12      1.00        1.00                   1.00            0.99                   1.00
+   3ec440a_a367385     0.73   0.74      1.00        1.00                   1.00            0.99                   1.00
+   04fe595_3ec440a     0.99   1.00      1.00        1.00                   1.00            0.99                   1.00
+   04fe595_a367385     0.73   0.74      1.00        1.00                   1.00            0.98                   1.00
+   a367385_b3bcd3f     0.36   0.37      1.00        1.00                   1.00            0.99                   1.00
+   6fe2d9e_927ccc4     0.44   0.45      1.00        1.00                   1.00            0.99                   1.00
+   927ccc4_b3bcd3f     0.22   0.22      1.00        1.00                   1.00            0.99                   1.00
+   6ba0f73_b3bcd3f     0.54   0.55      1.00        1.00                   1.00            0.99                   1.00
+   73b9800_7d66997     0.45   0.45      1.00        1.00                   1.00            0.99                   1.00
+   73b9800_de3b443     0.54   0.55      1.00        1.00                   1.00            0.99                   1.00
+   7d66997_c2be211     0.08   0.08      1.00        1.00                   1.00            0.99                   1.00
+   6fe2d9e_7d66997     0.40   0.41      1.00        1.00                   1.00            0.99                   1.00
+   6fe2d9e_f1ee6df     0.44   0.45      1.00        1.00                   1.00            0.97                   1.00
+   4b46bf2_c393e3b     0.24   0.25      1.00        1.00                   1.00            0.96                   1.00
+   04fe595_4b46bf2     0.90   0.90      1.00        1.00                   1.00            0.99                   1.00
+   4b46bf2_de3b443     0.09   0.09      1.00        1.00                   1.00            0.97                   1.00
+   8c54db8_c393e3b     0.49   0.50      1.00        1.00                   1.00            0.98                   1.00
+   8c54db8_c964e05     0.54   0.55      1.00        1.00                   1.00            0.99                   1.00
+   39ca6aa_8c54db8     0.03   0.04      1.00        1.00                   1.00            0.90                   1.00
+   235bba4_8c54db8     0.49   0.50      1.00        1.00                   1.00            0.99                   1.00
+   8c54db8_b3bcd3f     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   7d66997_b3bcd3f     0.16   0.17      1.00        1.00                   1.00            0.99                   1.00
+   38c8fbf_e8ba317     0.18   0.18      1.00        1.00                   1.00            0.98                   1.00
+   a66e2ba_e8ba317     0.18   0.18      1.00        1.00                   1.00            0.99                   1.00
+   38c8fbf_b3bcd3f     0.54   0.55      1.00        1.00                   1.00            0.99                   1.00
+   b3bcd3f_c964e05     0.49   0.50      1.00        1.00                   1.00            0.99                   1.00
+   39ca6aa_b3bcd3f     0.15   0.17      1.00        1.00                   1.00            0.89                   1.00
+   de3b443_f1ee6df     0.17   0.18      1.00        1.00                   1.00            0.96                   1.00
+   235bba4_a66e2ba     0.37   0.37      1.00        1.00                   1.00            1.00                   1.00
+   a66e2ba_b3bcd3f     0.54   0.55      1.00        1.00                   1.00            0.99                   1.00
+

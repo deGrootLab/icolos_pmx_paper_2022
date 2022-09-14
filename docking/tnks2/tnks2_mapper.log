@@ -1,0 +1,195 @@
+* fep_type: small_molecule
+* Number of nodes: 27
+* Number of edges: 41
+* fmpdb filename: N/A
+* Receptor
+	tnks2 - 5-removed waters: 3303 atoms
+* Environment structures
+	tnks2 - 5-removed waters: 3303 atoms
+* Edge calculated properties (units in kcal/mol)
+   Short ID         ligand1 -> ligand2    Bennett ddG    Cycle Closure ddG    Complex dG    Solvent dG
+   ---------------  --------------------  -------------  -------------------  ------------  ------------
+   1a849ad_e00fcc4  5f -> 5n              N/A            N/A                  N/A           N/A
+   b8214a7_e00fcc4  5o -> 5n              N/A            N/A                  N/A           N/A
+   272cc87_e00fcc4  5l -> 5n              N/A            N/A                  N/A           N/A
+   2d91a20_a903013  1b -> 5j              N/A            N/A                  N/A           N/A
+   81ac7ee_a903013  5a -> 5j              N/A            N/A                  N/A           N/A
+   1a849ad_2d91a20  5f -> 1b              N/A            N/A                  N/A           N/A
+   1a849ad_2bb0d13  5f -> 5g              N/A            N/A                  N/A           N/A
+   1a849ad_272cc87  5f -> 5l              N/A            N/A                  N/A           N/A
+   1a849ad_d529b4f  5f -> 5d              N/A            N/A                  N/A           N/A
+   684785b_9b2c328  8d -> 1a              N/A            N/A                  N/A           N/A
+   684785b_aac0b7c  8d -> 8f              N/A            N/A                  N/A           N/A
+   2a8e26e_684785b  8b -> 8d              N/A            N/A                  N/A           N/A
+   1d02965_684785b  8e -> 8d              N/A            N/A                  N/A           N/A
+   684785b_b7fe5cf  8d -> 8a              N/A            N/A                  N/A           N/A
+   684785b_7a2b4c9  8d -> 8c              N/A            N/A                  N/A           N/A
+   0d16094_7327eb8  3a -> 5b              N/A            N/A                  N/A           N/A
+   7327eb8_fc284a2  5b -> 5c              N/A            N/A                  N/A           N/A
+   7327eb8_9a5e44f  5b -> 5p              N/A            N/A                  N/A           N/A
+   2d91a20_aff47cb  1b -> 3b              N/A            N/A                  N/A           N/A
+   8f59e32_aff47cb  5k -> 3b              N/A            N/A                  N/A           N/A
+   0d16094_2d91a20  3a -> 1b              N/A            N/A                  N/A           N/A
+   2d91a20_902ba3c  1b -> 7               N/A            N/A                  N/A           N/A
+   2d91a20_fc284a2  1b -> 5c              N/A            N/A                  N/A           N/A
+   0d16094_5933eb5  3a -> 5i              N/A            N/A                  N/A           N/A
+   0d16094_36d4625  3a -> 5e              N/A            N/A                  N/A           N/A
+   902ba3c_9b2c328  7 -> 1a               N/A            N/A                  N/A           N/A
+   36d4625_9b2c328  5e -> 1a              N/A            N/A                  N/A           N/A
+   798876e_9b2c328  5h -> 1a              N/A            N/A                  N/A           N/A
+   7a2b4c9_9b2c328  8c -> 1a              N/A            N/A                  N/A           N/A
+   b8214a7_def1139  5o -> 5m              N/A            N/A                  N/A           N/A
+   798876e_b8214a7  5h -> 5o              N/A            N/A                  N/A           N/A
+   272cc87_8f59e32  5l -> 5k              N/A            N/A                  N/A           N/A
+   7a2b4c9_aac0b7c  8c -> 8f              N/A            N/A                  N/A           N/A
+   2bb0d13_5933eb5  5g -> 5i              N/A            N/A                  N/A           N/A
+   2a8e26e_b7fe5cf  8b -> 8a              N/A            N/A                  N/A           N/A
+   1d02965_7a2b4c9  8e -> 8c              N/A            N/A                  N/A           N/A
+   5933eb5_def1139  5i -> 5m              N/A            N/A                  N/A           N/A
+   798876e_def1139  5h -> 5m              N/A            N/A                  N/A           N/A
+   798876e_9a5e44f  5h -> 5p              N/A            N/A                  N/A           N/A
+   5933eb5_81ac7ee  5i -> 5a              N/A            N/A                  N/A           N/A
+   81ac7ee_d529b4f  5a -> 5d              N/A            N/A                  N/A           N/A
+
+* Node calculated properties (units in kcal/mol)
+   Short ID    Ligand    Predicted dG    Experimental dG    Predicted Solvation dG    Experimental Solvation dG
+   ----------  --------  --------------  -----------------  ------------------------  ---------------------------
+   e00fcc4     5n        N/A             N/A                N/A                       N/A
+   a903013     5j        N/A             N/A                N/A                       N/A
+   1a849ad     5f        N/A             N/A                N/A                       N/A
+   684785b     8d        N/A             N/A                N/A                       N/A
+   7327eb8     5b        N/A             N/A                N/A                       N/A
+   aff47cb     3b        N/A             N/A                N/A                       N/A
+   2d91a20     1b        N/A             N/A                N/A                       N/A
+   0d16094     3a        N/A             N/A                N/A                       N/A
+   9b2c328     1a        N/A             N/A                N/A                       N/A
+   b8214a7     5o        N/A             N/A                N/A                       N/A
+   8f59e32     5k        N/A             N/A                N/A                       N/A
+   aac0b7c     8f        N/A             N/A                N/A                       N/A
+   2bb0d13     5g        N/A             N/A                N/A                       N/A
+   2a8e26e     8b        N/A             N/A                N/A                       N/A
+   1d02965     8e        N/A             N/A                N/A                       N/A
+   902ba3c     7         N/A             N/A                N/A                       N/A
+   fc284a2     5c        N/A             N/A                N/A                       N/A
+   b7fe5cf     8a        N/A             N/A                N/A                       N/A
+   def1139     5m        N/A             N/A                N/A                       N/A
+   9a5e44f     5p        N/A             N/A                N/A                       N/A
+   5933eb5     5i        N/A             N/A                N/A                       N/A
+   272cc87     5l        N/A             N/A                N/A                       N/A
+   36d4625     5e        N/A             N/A                N/A                       N/A
+   798876e     5h        N/A             N/A                N/A                       N/A
+   7a2b4c9     8c        N/A             N/A                N/A                       N/A
+   81ac7ee     5a        N/A             N/A                N/A                       N/A
+   d529b4f     5d        N/A             N/A                N/A                       N/A
+
+* Simulation Protocol
+   Short ID         Protocol        Number of lambda windows
+   ---------------  ------------  --------------------------
+   1a849ad_e00fcc4  default                               12
+   b8214a7_e00fcc4  default                               12
+   272cc87_e00fcc4  default                               12
+   2d91a20_a903013  default                               12
+   81ac7ee_a903013  default                               12
+   1a849ad_2d91a20  default                               12
+   1a849ad_2bb0d13  default                               12
+   1a849ad_272cc87  default                               12
+   1a849ad_d529b4f  default                               12
+   684785b_9b2c328  charge                                24
+   684785b_aac0b7c  default                               12
+   2a8e26e_684785b  core-hopping                          16
+   1d02965_684785b  default                               12
+   684785b_b7fe5cf  core-hopping                          16
+   684785b_7a2b4c9  default                               12
+   0d16094_7327eb8  default                               12
+   7327eb8_fc284a2  default                               12
+   7327eb8_9a5e44f  default                               12
+   2d91a20_aff47cb  default                               12
+   8f59e32_aff47cb  default                               12
+   0d16094_2d91a20  default                               12
+   2d91a20_902ba3c  default                               12
+   2d91a20_fc284a2  default                               12
+   0d16094_5933eb5  default                               12
+   0d16094_36d4625  default                               12
+   902ba3c_9b2c328  default                               12
+   36d4625_9b2c328  default                               12
+   798876e_9b2c328  default                               12
+   7a2b4c9_9b2c328  charge                                24
+   b8214a7_def1139  default                               12
+   798876e_b8214a7  default                               12
+   272cc87_8f59e32  default                               12
+   7a2b4c9_aac0b7c  default                               12
+   2bb0d13_5933eb5  default                               12
+   2a8e26e_b7fe5cf  default                               12
+   1d02965_7a2b4c9  default                               12
+   5933eb5_def1139  default                               12
+   798876e_def1139  default                               12
+   798876e_9a5e44f  default                               12
+   5933eb5_81ac7ee  default                               12
+   81ac7ee_d529b4f  default                               12
+
+* Number of connected components: 1
+* Most connected nodes (6 degree)
+	684785b: 8d
+	2d91a20: 1b
+* Least connected nodes (2 degree)
+	a903013: 5j
+	aff47cb: 3b
+	8f59e32: 5k
+	aac0b7c: 8f
+	2bb0d13: 5g
+	2a8e26e: 8b
+	1d02965: 8e
+	902ba3c: 7
+	fc284a2: 5c
+	b7fe5cf: 8a
+	9a5e44f: 5p
+	36d4625: 5e
+	d529b4f: 5d
+* Bad edge
+	There is no bad edges
+* Average similarity: 0.7033
+* Similarity
+   Short ID           Total    Mcs    Charge    SoftBond    MinimumNumberOfAtom    SnapCoreRmsd    BidirectionSnapCore
+   ---------------  -------  -----  --------  ----------  ---------------------  --------------  ---------------------
+   1a849ad_e00fcc4     0.60   0.61      1.00        1.00                   1.00            1.00                   1.00
+   b8214a7_e00fcc4     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   272cc87_e00fcc4     0.55   0.55      1.00        1.00                   1.00            1.00                   1.00
+   2d91a20_a903013     0.66   0.67      1.00        1.00                   1.00            0.99                   1.00
+   81ac7ee_a903013     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   1a849ad_2d91a20     0.73   0.74      1.00        1.00                   1.00            0.99                   1.00
+   1a849ad_2bb0d13     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   1a849ad_272cc87     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   1a849ad_d529b4f     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   684785b_9b2c328     0.04   0.45      0.10        1.00                   1.00            1.00                   1.00
+   684785b_aac0b7c     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   2a8e26e_684785b     0.60   0.74      1.00        0.82                   1.00            0.99                   1.00
+   1d02965_684785b     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   684785b_b7fe5cf     0.54   0.67      1.00        0.82                   1.00            0.99                   1.00
+   684785b_7a2b4c9     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   0d16094_7327eb8     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   7327eb8_fc284a2     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   7327eb8_9a5e44f     0.55   0.55      1.00        1.00                   1.00            0.99                   1.00
+   2d91a20_aff47cb     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   8f59e32_aff47cb     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   0d16094_2d91a20     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   2d91a20_902ba3c     0.74   0.74      1.00        1.00                   1.00            0.99                   1.00
+   2d91a20_fc284a2     0.73   0.74      1.00        1.00                   1.00            0.99                   1.00
+   0d16094_5933eb5     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   0d16094_36d4625     0.73   0.74      1.00        1.00                   1.00            0.98                   1.00
+   902ba3c_9b2c328     0.60   0.61      1.00        1.00                   1.00            0.99                   1.00
+   36d4625_9b2c328     0.60   0.61      1.00        1.00                   1.00            0.99                   1.00
+   798876e_9b2c328     0.55   0.55      1.00        1.00                   1.00            1.00                   1.00
+   7a2b4c9_9b2c328     0.04   0.45      0.10        1.00                   1.00            1.00                   1.00
+   b8214a7_def1139     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   798876e_b8214a7     0.49   0.50      1.00        1.00                   1.00            1.00                   1.00
+   272cc87_8f59e32     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   7a2b4c9_aac0b7c     0.74   0.74      1.00        1.00                   1.00            1.00                   1.00
+   2bb0d13_5933eb5     0.82   0.82      1.00        1.00                   1.00            1.00                   1.00
+   2a8e26e_b7fe5cf     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   1d02965_7a2b4c9     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   5933eb5_def1139     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   798876e_def1139     0.67   0.67      1.00        1.00                   1.00            1.00                   1.00
+   798876e_9a5e44f     0.49   0.50      1.00        1.00                   1.00            0.99                   1.00
+   5933eb5_81ac7ee     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+   81ac7ee_d529b4f     0.90   0.90      1.00        1.00                   1.00            1.00                   1.00
+
